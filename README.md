@@ -20,4 +20,4 @@ In the Makfile:
 - add the line `--exclude org.apache.lucene.analysis.cn.smart.AnalyzerProfile` near `--exclude org.apache.lucene.sandbox.queries.regex.JakartaRegexpCapabilities`
 
 ## 2. ReadME Links:
-- [Lucene searchers](nlu_IR/lucene_search) (including CosQA, SSQA, HotpotQA)# Lucene_wiki
+- [Lucene searchers](nlu_IR/lucene_search) (including CosQA, SSQA, HotpotQA)
